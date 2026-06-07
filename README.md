@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Instant secure SHA-256 hash generator with visual comparative bounds.
+  name: sha256-hash-generator version: 1.0 type: Repository author: VarshuAi description: >   Instant secure SHA-256 hash generator with visual comparative bounds. primary_tech: CSS
 primary_tech: CSS
 ```
 
